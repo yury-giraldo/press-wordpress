@@ -1,0 +1,109 @@
+/* Custom Styles */
+
+/* NavBar */
+
+ul#menu-header-menu-1 {
+  flex-direction: row;
+}
+.menu {
+  color: #fff !important;
+  transition: background-color 0.7s ease-in-out;
+}
+.down {
+  background-color: #0b0b0b;
+}
+.btn-color {
+  background: linear-gradient(90deg, #ff0000 0%, #ff9900 100%);
+}
+
+/* Hero */
+
+.bg-hero {
+  background-image: url("https://www.salsena.com/wp-content/uploads/2024/06/banner.jpg");
+  height: 810px;
+}
+span.days.--value {
+  display: flex;
+}
+.countdown > *:before {
+  content: none !important;
+}
+.text-time {
+  font-size: 0.6rem;
+  font-weight: normal;
+}
+@media (min-width: 768px) {
+  .bor-r-sal {
+    border-right-width: 1px !important;
+  }
+}
+/* Video */
+
+div#marquee video.elementor-video {
+  height: 90px !important;
+}
+
+.elementor-33 .elementor-element.elementor-element-c8dd81b {
+  --content-width: 100%;
+  height: 90px;
+}
+/* Title*/
+
+.stroked-text {
+  font-size: 70px;
+  font-weight: 700;
+  color: #fff;
+  text-align: center;
+}
+h2 span {
+  color: transparent;
+  -webkit-text-stroke: 2px white;
+}
+
+/* Countdown */
+
+.elementor-counter .elementor-counter-title{
+    text-align: center;
+}
+
+/* Carrousel */
+
+.elementor-image-carousel-caption span {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 25px;
+  display: flex;
+  width: 250px;
+  margin: 20px auto;
+}
+
+/* Video Class */
+
+@media (max-width: 768px) {
+  .elementor-33 .elementor-element.elementor-element-b3f3ddd.elementor-element {
+    width: 100% !important;
+    height: 500px !important;
+  }
+  .text-center{
+      text-align: center;
+  }
+}
+/* Footer */
+
+@media (max-width: 768px) {
+  .cel-sal {
+    display: grid;
+    gap: 30px;
+    justify-items: center;
+  }
+}
+
+/* About US */
+.elementor-element.elementor-element-c2ff03a.e-grid.e-con-full.e-con.e-parent.e-lazyloaded {
+    height: 1160px;
+}
+
+.center-img{
+    object-fit: cover; /* Ajusta el contenido de la imagen */
+    object-position: top center;
+}

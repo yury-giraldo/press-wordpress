@@ -1,0 +1,146 @@
+[29-May-2024 18:51:18 UTC] PHP Parse error:  syntax error, unexpected token "endwhile" in /home/u797583539/domains/salsena.com/public_html/wp-content/themes/salsena/index.php on line 10
+[29-May-2024 18:52:10 UTC] PHP Parse error:  syntax error, unexpected token "endwhile" in /home/u797583539/domains/salsena.com/public_html/wp-content/themes/salsena/index.php on line 10
+[29-May-2024 18:56:20 UTC] PHP Parse error:  syntax error, unexpected token "endwhile" in /home/u797583539/domains/salsena.com/public_html/wp-content/themes/salsena/index.php on line 10
+[06-Jun-2024 18:20:09 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function register_nav_menu(), 1 passed in /home/u797583539/domains/salsena.com/public_html/wp-content/themes/salsena/functions.php on line 15 and exactly 2 expected in /home/u797583539/domains/salsena.com/public_html/wp-includes/nav-menu.php:136
+Stack trace:
+#0 /home/u797583539/domains/salsena.com/public_html/wp-content/themes/salsena/functions.php(15): register_nav_menu()
+#1 /home/u797583539/domains/salsena.com/public_html/wp-includes/class-wp-hook.php(324): menu_salsena()
+#2 /home/u797583539/domains/salsena.com/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/u797583539/domains/salsena.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/u797583539/domains/salsena.com/public_html/wp-settings.php(695): do_action()
+#5 /home/u797583539/domains/salsena.com/public_html/wp-config.php(105): require_once('/home/u79758353...')
+#6 /home/u797583539/domains/salsena.com/public_html/wp-load.php(50): require_once('/home/u79758353...')
+#7 /home/u797583539/domains/salsena.com/public_html/wp-blog-header.php(13): require_once('/home/u79758353...')
+#8 /home/u797583539/domains/salsena.com/public_html/index.php(17): require('/home/u79758353...')
+#9 {main}
+  thrown in /home/u797583539/domains/salsena.com/public_html/wp-includes/nav-menu.php on line 136
+[06-Jun-2024 18:21:45 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function register_nav_menu(), 1 passed in /home/u797583539/domains/salsena.com/public_html/wp-content/themes/salsena/functions.php on line 15 and exactly 2 expected in /home/u797583539/domains/salsena.com/public_html/wp-includes/nav-menu.php:136
+Stack trace:
+#0 /home/u797583539/domains/salsena.com/public_html/wp-content/themes/salsena/functions.php(15): register_nav_menu()
+#1 /home/u797583539/domains/salsena.com/public_html/wp-includes/class-wp-hook.php(324): menu_salsena()
+#2 /home/u797583539/domains/salsena.com/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/u797583539/domains/salsena.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/u797583539/domains/salsena.com/public_html/wp-settings.php(695): do_action()
+#5 /home/u797583539/domains/salsena.com/public_html/wp-config.php(105): require_once('/home/u79758353...')
+#6 /home/u797583539/domains/salsena.com/public_html/wp-load.php(50): require_once('/home/u79758353...')
+#7 /home/u797583539/domains/salsena.com/public_html/wp-blog-header.php(13): require_once('/home/u79758353...')
+#8 /home/u797583539/domains/salsena.com/public_html/index.php(17): require('/home/u79758353...')
+#9 {main}
+  thrown in /home/u797583539/domains/salsena.com/public_html/wp-includes/nav-menu.php on line 136
+[06-Jun-2024 18:22:37 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function register_nav_menu(), 1 passed in /home/u797583539/domains/salsena.com/public_html/wp-content/themes/salsena/functions.php on line 15 and exactly 2 expected in /home/u797583539/domains/salsena.com/public_html/wp-includes/nav-menu.php:136
+Stack trace:
+#0 /home/u797583539/domains/salsena.com/public_html/wp-content/themes/salsena/functions.php(15): register_nav_menu()
+#1 /home/u797583539/domains/salsena.com/public_html/wp-includes/class-wp-hook.php(324): menu_salsena()
+#2 /home/u797583539/domains/salsena.com/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/u797583539/domains/salsena.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/u797583539/domains/salsena.com/public_html/wp-settings.php(695): do_action()
+#5 /home/u797583539/domains/salsena.com/public_html/wp-config.php(105): require_once('/home/u79758353...')
+#6 /home/u797583539/domains/salsena.com/public_html/wp-load.php(50): require_once('/home/u79758353...')
+#7 /home/u797583539/domains/salsena.com/public_html/wp-blog-header.php(13): require_once('/home/u79758353...')
+#8 /home/u797583539/domains/salsena.com/public_html/index.php(17): require('/home/u79758353...')
+#9 {main}
+  thrown in /home/u797583539/domains/salsena.com/public_html/wp-includes/nav-menu.php on line 136
+[06-Jun-2024 18:23:06 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function register_nav_menu(), 1 passed in /home/u797583539/domains/salsena.com/public_html/wp-content/themes/salsena/functions.php on line 15 and exactly 2 expected in /home/u797583539/domains/salsena.com/public_html/wp-includes/nav-menu.php:136
+Stack trace:
+#0 /home/u797583539/domains/salsena.com/public_html/wp-content/themes/salsena/functions.php(15): register_nav_menu()
+#1 /home/u797583539/domains/salsena.com/public_html/wp-includes/class-wp-hook.php(324): menu_salsena()
+#2 /home/u797583539/domains/salsena.com/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/u797583539/domains/salsena.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/u797583539/domains/salsena.com/public_html/wp-settings.php(695): do_action()
+#5 /home/u797583539/domains/salsena.com/public_html/wp-config.php(105): require_once('/home/u79758353...')
+#6 /home/u797583539/domains/salsena.com/public_html/wp-load.php(50): require_once('/home/u79758353...')
+#7 /home/u797583539/domains/salsena.com/public_html/wp-blog-header.php(13): require_once('/home/u79758353...')
+#8 /home/u797583539/domains/salsena.com/public_html/index.php(17): require('/home/u79758353...')
+#9 {main}
+  thrown in /home/u797583539/domains/salsena.com/public_html/wp-includes/nav-menu.php on line 136
+[06-Jun-2024 18:23:32 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function register_nav_menu(), 1 passed in /home/u797583539/domains/salsena.com/public_html/wp-content/themes/salsena/functions.php on line 15 and exactly 2 expected in /home/u797583539/domains/salsena.com/public_html/wp-includes/nav-menu.php:136
+Stack trace:
+#0 /home/u797583539/domains/salsena.com/public_html/wp-content/themes/salsena/functions.php(15): register_nav_menu()
+#1 /home/u797583539/domains/salsena.com/public_html/wp-includes/class-wp-hook.php(324): menu_salsena()
+#2 /home/u797583539/domains/salsena.com/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/u797583539/domains/salsena.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/u797583539/domains/salsena.com/public_html/wp-settings.php(695): do_action()
+#5 /home/u797583539/domains/salsena.com/public_html/wp-config.php(105): require_once('/home/u79758353...')
+#6 /home/u797583539/domains/salsena.com/public_html/wp-load.php(50): require_once('/home/u79758353...')
+#7 /home/u797583539/domains/salsena.com/public_html/wp-blog-header.php(13): require_once('/home/u79758353...')
+#8 /home/u797583539/domains/salsena.com/public_html/index.php(17): require('/home/u79758353...')
+#9 {main}
+  thrown in /home/u797583539/domains/salsena.com/public_html/wp-includes/nav-menu.php on line 136
+[06-Jun-2024 20:17:35 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function register_nav_menu(), 1 passed in /home/u797583539/domains/salsena.com/public_html/wp-content/themes/salsena/functions.php on line 15 and exactly 2 expected in /home/u797583539/domains/salsena.com/public_html/wp-includes/nav-menu.php:136
+Stack trace:
+#0 /home/u797583539/domains/salsena.com/public_html/wp-content/themes/salsena/functions.php(15): register_nav_menu()
+#1 /home/u797583539/domains/salsena.com/public_html/wp-includes/class-wp-hook.php(324): menu_salsena()
+#2 /home/u797583539/domains/salsena.com/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/u797583539/domains/salsena.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/u797583539/domains/salsena.com/public_html/wp-settings.php(695): do_action()
+#5 /home/u797583539/domains/salsena.com/public_html/wp-config.php(105): require_once('/home/u79758353...')
+#6 /home/u797583539/domains/salsena.com/public_html/wp-load.php(50): require_once('/home/u79758353...')
+#7 /home/u797583539/domains/salsena.com/public_html/wp-blog-header.php(13): require_once('/home/u79758353...')
+#8 /home/u797583539/domains/salsena.com/public_html/index.php(17): require('/home/u79758353...')
+#9 {main}
+  thrown in /home/u797583539/domains/salsena.com/public_html/wp-includes/nav-menu.php on line 136
+[06-Jun-2024 20:18:00 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function register_nav_menu(), 1 passed in /home/u797583539/domains/salsena.com/public_html/wp-content/themes/salsena/functions.php on line 15 and exactly 2 expected in /home/u797583539/domains/salsena.com/public_html/wp-includes/nav-menu.php:136
+Stack trace:
+#0 /home/u797583539/domains/salsena.com/public_html/wp-content/themes/salsena/functions.php(15): register_nav_menu()
+#1 /home/u797583539/domains/salsena.com/public_html/wp-includes/class-wp-hook.php(324): menu_salsena()
+#2 /home/u797583539/domains/salsena.com/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/u797583539/domains/salsena.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/u797583539/domains/salsena.com/public_html/wp-settings.php(695): do_action()
+#5 /home/u797583539/domains/salsena.com/public_html/wp-config.php(105): require_once('/home/u79758353...')
+#6 /home/u797583539/domains/salsena.com/public_html/wp-load.php(50): require_once('/home/u79758353...')
+#7 /home/u797583539/domains/salsena.com/public_html/wp-blog-header.php(13): require_once('/home/u79758353...')
+#8 /home/u797583539/domains/salsena.com/public_html/index.php(17): require('/home/u79758353...')
+#9 {main}
+  thrown in /home/u797583539/domains/salsena.com/public_html/wp-includes/nav-menu.php on line 136
+[06-Jun-2024 20:18:36 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function register_nav_menu(), 1 passed in /home/u797583539/domains/salsena.com/public_html/wp-content/themes/salsena/functions.php on line 15 and exactly 2 expected in /home/u797583539/domains/salsena.com/public_html/wp-includes/nav-menu.php:136
+Stack trace:
+#0 /home/u797583539/domains/salsena.com/public_html/wp-content/themes/salsena/functions.php(15): register_nav_menu()
+#1 /home/u797583539/domains/salsena.com/public_html/wp-includes/class-wp-hook.php(324): menu_salsena()
+#2 /home/u797583539/domains/salsena.com/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/u797583539/domains/salsena.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/u797583539/domains/salsena.com/public_html/wp-settings.php(695): do_action()
+#5 /home/u797583539/domains/salsena.com/public_html/wp-config.php(105): require_once('/home/u79758353...')
+#6 /home/u797583539/domains/salsena.com/public_html/wp-load.php(50): require_once('/home/u79758353...')
+#7 /home/u797583539/domains/salsena.com/public_html/wp-blog-header.php(13): require_once('/home/u79758353...')
+#8 /home/u797583539/domains/salsena.com/public_html/index.php(17): require('/home/u79758353...')
+#9 {main}
+  thrown in /home/u797583539/domains/salsena.com/public_html/wp-includes/nav-menu.php on line 136
+[06-Jun-2024 20:19:02 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function register_nav_menu(), 1 passed in /home/u797583539/domains/salsena.com/public_html/wp-content/themes/salsena/functions.php on line 15 and exactly 2 expected in /home/u797583539/domains/salsena.com/public_html/wp-includes/nav-menu.php:136
+Stack trace:
+#0 /home/u797583539/domains/salsena.com/public_html/wp-content/themes/salsena/functions.php(15): register_nav_menu()
+#1 /home/u797583539/domains/salsena.com/public_html/wp-includes/class-wp-hook.php(324): menu_salsena()
+#2 /home/u797583539/domains/salsena.com/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/u797583539/domains/salsena.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/u797583539/domains/salsena.com/public_html/wp-settings.php(695): do_action()
+#5 /home/u797583539/domains/salsena.com/public_html/wp-config.php(105): require_once('/home/u79758353...')
+#6 /home/u797583539/domains/salsena.com/public_html/wp-load.php(50): require_once('/home/u79758353...')
+#7 /home/u797583539/domains/salsena.com/public_html/wp-blog-header.php(13): require_once('/home/u79758353...')
+#8 /home/u797583539/domains/salsena.com/public_html/index.php(17): require('/home/u79758353...')
+#9 {main}
+  thrown in /home/u797583539/domains/salsena.com/public_html/wp-includes/nav-menu.php on line 136
+[06-Jun-2024 20:19:38 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function register_nav_menu(), 1 passed in /home/u797583539/domains/salsena.com/public_html/wp-content/themes/salsena/functions.php on line 15 and exactly 2 expected in /home/u797583539/domains/salsena.com/public_html/wp-includes/nav-menu.php:136
+Stack trace:
+#0 /home/u797583539/domains/salsena.com/public_html/wp-content/themes/salsena/functions.php(15): register_nav_menu()
+#1 /home/u797583539/domains/salsena.com/public_html/wp-includes/class-wp-hook.php(324): menu_salsena()
+#2 /home/u797583539/domains/salsena.com/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/u797583539/domains/salsena.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/u797583539/domains/salsena.com/public_html/wp-settings.php(695): do_action()
+#5 /home/u797583539/domains/salsena.com/public_html/wp-config.php(105): require_once('/home/u79758353...')
+#6 /home/u797583539/domains/salsena.com/public_html/wp-load.php(50): require_once('/home/u79758353...')
+#7 /home/u797583539/domains/salsena.com/public_html/wp-blog-header.php(13): require_once('/home/u79758353...')
+#8 /home/u797583539/domains/salsena.com/public_html/index.php(17): require('/home/u79758353...')
+#9 {main}
+  thrown in /home/u797583539/domains/salsena.com/public_html/wp-includes/nav-menu.php on line 136
+[06-Jun-2024 20:20:19 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function register_nav_menu(), 1 passed in /home/u797583539/domains/salsena.com/public_html/wp-content/themes/salsena/functions.php on line 15 and exactly 2 expected in /home/u797583539/domains/salsena.com/public_html/wp-includes/nav-menu.php:136
+Stack trace:
+#0 /home/u797583539/domains/salsena.com/public_html/wp-content/themes/salsena/functions.php(15): register_nav_menu()
+#1 /home/u797583539/domains/salsena.com/public_html/wp-includes/class-wp-hook.php(324): menu_salsena()
+#2 /home/u797583539/domains/salsena.com/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/u797583539/domains/salsena.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/u797583539/domains/salsena.com/public_html/wp-settings.php(695): do_action()
+#5 /home/u797583539/domains/salsena.com/public_html/wp-config.php(105): require_once('/home/u79758353...')
+#6 /home/u797583539/domains/salsena.com/public_html/wp-load.php(50): require_once('/home/u79758353...')
+#7 /home/u797583539/domains/salsena.com/public_html/wp-blog-header.php(13): require_once('/home/u79758353...')
+#8 /home/u797583539/domains/salsena.com/public_html/index.php(17): require('/home/u79758353...')
+#9 {main}
+  thrown in /home/u797583539/domains/salsena.com/public_html/wp-includes/nav-menu.php on line 136

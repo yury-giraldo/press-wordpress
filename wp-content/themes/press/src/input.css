@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .stats {
+    border: 1px solid #fff;
+    border-radius: 10px;
+    background-color: rgba(217, 217, 217, 0.2);
+  }
+  :where(.stats) {
+    grid-auto-flow: row;
+  }
+  .stat-title {
+    color: #fff;
+  }
+  .stat-desc {
+    color: #fff;
+  }
+  @media (min-width: 322px) {
+    :where(.stats) > :not([hidden]) ~ :not([hidden]) {
+      border-top-width: 1px;
+      border-bottom-width: 1px;
+    }
+  }
+  @media (min-width: 768px) {
+    :where(.stats) > :not([hidden]) ~ :not([hidden]) {
+      border-top-width: 0;
+      border-bottom-width: 0;
+    }
+  }
+}
